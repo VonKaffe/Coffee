@@ -1,2 +1,2 @@
-# Coffee
+# EC Repo
 School
